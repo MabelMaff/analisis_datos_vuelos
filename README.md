@@ -59,9 +59,6 @@ Este repositorio contiene la resolución del ejercicio final del Módulo 3, que 
 - **Python**: Análisis y manipulación de datos.
 - **Pandas**: Manipulación y análisis de datos.
 - **Matplotlib/Seaborn**: Visualización de datos.
-- **
-
-```markdown
 - **SciPy**: Pruebas estadísticas y análisis.
 
 ---
