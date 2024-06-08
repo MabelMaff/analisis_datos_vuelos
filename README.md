@@ -118,7 +118,7 @@ Este repositorio contiene la resolución del ejercicio final del Módulo 3, que 
 
 Para cualquier consulta o sugerencia, puedes contactarme en:
 
-- **LinkedIn**: [Tu Perfil de LinkedIn](www.linkedin.com/in/mabelmr)
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/mabelmr)
 
 ---
 
