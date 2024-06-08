@@ -45,6 +45,9 @@ Este repositorio contiene la resolución del ejercicio final del Módulo 3, que 
 - **PDFs**
   - Informe Análisis de Datos.pdf (Informe de cada una de als gráficas)
   - Informe Análisis de Datos 2.pdf (Informe resultante de evaluar las diferencias en las reservas de vuelos según el nivel educativo de los clientes)
+ 
+- **Imágenes**
+  - Todas las imágenes de las gráficas empleadas para el informe.
 
 - **Datasets:**
   - Customer Loyalty History.csv (original)
